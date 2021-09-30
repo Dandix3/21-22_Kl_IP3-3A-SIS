@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="Úvod k PHP, řetězce">
-      <change afterPath="$PROJECT_DIR$/02-arrays-and-strings/02-array.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-arrays-and-strings/03-htmlSelect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-arrays-and-strings/04-reverseString.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-arrays-and-strings/05-evenOdd.php" afterDir="false" />
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="PHP pole a řetězce">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-uvod/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/01-uvod/01-demo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-uvod/strings.php" beforeDir="false" afterPath="$PROJECT_DIR$/02-arrays-and-strings/01-strings.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02-arrays-and-strings" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -41,6 +36,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
     </key>
@@ -59,7 +57,8 @@
       <workItem from="1631262096568" duration="916000" />
       <workItem from="1631340386864" duration="663000" />
       <workItem from="1631695562835" duration="35000" />
-      <workItem from="1632377481179" duration="4810000" />
+      <workItem from="1632377481179" duration="5004000" />
+      <workItem from="1632982376249" duration="3750000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631263362976</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PHP pole a řetězce">
+      <created>1632382460743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632382460743</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Úvod k PHP, řetězce" />
-    <option name="LAST_COMMIT_MESSAGE" value="Úvod k PHP, řetězce" />
+    <MESSAGE value="PHP pole a řetězce" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP pole a řetězce" />
   </component>
 </project>
