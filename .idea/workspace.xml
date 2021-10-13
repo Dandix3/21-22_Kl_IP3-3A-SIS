@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="PHP pole a řetězce">
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="PHP pole a řetězce - cvičení 7. 10. 2021">
+      <change afterPath="$PROJECT_DIR$/03-cookies-sessions/session/session-delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02-arrays-and-strings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-cookies-sessions/session" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -37,6 +38,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\_wamp_root\IP3\3A-SIS\03-cookies-sessions\session" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -58,7 +60,9 @@
       <workItem from="1631340386864" duration="663000" />
       <workItem from="1631695562835" duration="35000" />
       <workItem from="1632377481179" duration="5004000" />
-      <workItem from="1632982376249" duration="3750000" />
+      <workItem from="1632982376249" duration="4526000" />
+      <workItem from="1633548768350" duration="2458000" />
+      <workItem from="1634097527644" duration="3658000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -88,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632382460743</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="PHP pole a řetězce - cvičení">
+      <created>1632990072101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1632990072101</updated>
+    </task>
+    <task id="LOCAL-00006" summary="PHP pole a řetězce - cvičení 7. 10. 2021">
+      <created>1633604723316</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633604723316</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +128,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Úvod k PHP, řetězce" />
     <MESSAGE value="PHP pole a řetězce" />
-    <option name="LAST_COMMIT_MESSAGE" value="PHP pole a řetězce" />
+    <MESSAGE value="PHP pole a řetězce - cvičení" />
+    <MESSAGE value="PHP pole a řetězce - cvičení 7. 10. 2021" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP pole a řetězce - cvičení 7. 10. 2021" />
   </component>
 </project>
