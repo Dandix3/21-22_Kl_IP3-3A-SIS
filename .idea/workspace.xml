@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="PHP pole a řetězce - cvičení 7. 10. 2021">
-      <change afterPath="$PROJECT_DIR$/03-cookies-sessions/session/session-delete.php" afterDir="false" />
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="PHP Cookies a sessions">
+      <change afterPath="$PROJECT_DIR$/04-MySQL/connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-MySQL/mistnosti.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,9 @@
       <workItem from="1632377481179" duration="5004000" />
       <workItem from="1632982376249" duration="4526000" />
       <workItem from="1633548768350" duration="2458000" />
-      <workItem from="1634097527644" duration="3658000" />
+      <workItem from="1634097527644" duration="4554000" />
+      <workItem from="1634722108996" duration="11000" />
+      <workItem from="1636010406561" duration="3688000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -106,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633604723316</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="PHP Cookies a sessions">
+      <created>1634116513613</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634116513613</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +140,7 @@
     <MESSAGE value="PHP pole a řetězce" />
     <MESSAGE value="PHP pole a řetězce - cvičení" />
     <MESSAGE value="PHP pole a řetězce - cvičení 7. 10. 2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="PHP pole a řetězce - cvičení 7. 10. 2021" />
+    <MESSAGE value="PHP Cookies a sessions" />
+    <option name="LAST_COMMIT_MESSAGE" value="PHP Cookies a sessions" />
   </component>
 </project>
