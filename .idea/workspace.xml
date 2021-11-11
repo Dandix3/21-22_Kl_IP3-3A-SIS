@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="PHP Cookies a sessions">
-      <change afterPath="$PROJECT_DIR$/04-MySQL/connect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-MySQL/mistnosti.php" afterDir="false" />
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2021-11-04 Připojení MySQL">
+      <change afterPath="$PROJECT_DIR$/04-MySQL/include/db_connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-MySQL/mistnost.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-MySQL/connect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-MySQL/mistnosti.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-MySQL/mistnosti.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,8 @@
       <workItem from="1633548768350" duration="2458000" />
       <workItem from="1634097527644" duration="4554000" />
       <workItem from="1634722108996" duration="11000" />
-      <workItem from="1636010406561" duration="3688000" />
+      <workItem from="1636010406561" duration="4337000" />
+      <workItem from="1636614769422" duration="4728000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -116,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634116513613</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2021-11-04 Připojení MySQL">
+      <created>1636017349724</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636017349724</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +151,17 @@
     <MESSAGE value="PHP pole a řetězce - cvičení" />
     <MESSAGE value="PHP pole a řetězce - cvičení 7. 10. 2021" />
     <MESSAGE value="PHP Cookies a sessions" />
-    <option name="LAST_COMMIT_MESSAGE" value="PHP Cookies a sessions" />
+    <MESSAGE value="2021-11-04 Připojení MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-11-04 Připojení MySQL" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/04-MySQL/include/db_connect.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

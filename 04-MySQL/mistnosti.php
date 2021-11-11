@@ -1,19 +1,6 @@
 <?php
 
-$host = '127.0.0.1';
-$db = 'ip_3';
-$user = 'www-aplikace';
-$pass = 'Bezpe4n0Heslo.';
-$charset = 'utf8mb4';
-
-$dsn = "mysql:host=$host;dbname=$db;charset=$charset";
-
-$options = [
-    PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
-    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_OBJ,
-    PDO::ATTR_EMULATE_PREPARES => false,
-];
-$pdo = new PDO($dsn, $user, $pass, $options);
+require_once ("include/db_connect.php");
 
 ?>
 <!doctype html>
@@ -28,6 +15,7 @@ $pdo = new PDO($dsn, $user, $pass, $options);
 </head>
 <body><div class="container"><?php
 
+$pdo = DB::connect();
 $stmt = $pdo->query('SELECT * FROM room');
 
 if ($stmt->rowCount() == 0){
