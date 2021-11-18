@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2021-11-04 Připojení MySQL">
-      <change afterPath="$PROJECT_DIR$/04-MySQL/include/db_connect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-MySQL/mistnost.php" afterDir="false" />
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2021-11-11 Get requesty, detail místnosti">
+      <change afterPath="$PROJECT_DIR$/05-Forms/01-form-demo/01-form-demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Forms/01-form-demo/cil.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-Forms/01-form-demo/registrace.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-MySQL/connect.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-MySQL/mistnosti.php" beforeDir="false" afterPath="$PROJECT_DIR$/04-MySQL/mistnosti.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\_wamp_root\IP3\3A-SIS\05-Forms\01-form-demo" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
     </key>
   </component>
@@ -68,7 +68,8 @@
       <workItem from="1634097527644" duration="4554000" />
       <workItem from="1634722108996" duration="11000" />
       <workItem from="1636010406561" duration="4337000" />
-      <workItem from="1636614769422" duration="4728000" />
+      <workItem from="1636614769422" duration="5504000" />
+      <workItem from="1637219744933" duration="3103000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -126,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636017349724</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2021-11-11 Get requesty, detail místnosti">
+      <created>1636620006942</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636620006942</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +160,8 @@
     <MESSAGE value="PHP pole a řetězce - cvičení 7. 10. 2021" />
     <MESSAGE value="PHP Cookies a sessions" />
     <MESSAGE value="2021-11-04 Připojení MySQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-11-04 Připojení MySQL" />
+    <MESSAGE value="2021-11-11 Get requesty, detail místnosti" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-11-11 Get requesty, detail místnosti" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
