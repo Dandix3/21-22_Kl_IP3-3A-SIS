@@ -11,6 +11,7 @@
 <form action="registrace.php" method="get">
     <label for="jmeno"> Jméno:</label> <input type="text" id="jmeno" name="name" placeholder="vaše jméno" /><br />
     E-mail: <input type="email" name="email" placeholder="váš email" /><br />
+    Věk: <input type="text" name="age" placeholder="váš věk" /><br />
     <label>Pamatuj si mne: <input type="checkbox" name="remember" /></label><br />
     <input type="submit" value="Odeslat" />
 </form>
