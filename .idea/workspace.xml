@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2021-11-18 - Formulare, http metody, PRG">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Forms/01-form-demo/01-form-demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/05-Forms/01-form-demo/01-form-demo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-Forms/01-form-demo/registrace.php" beforeDir="false" afterPath="$PROJECT_DIR$/05-Forms/01-form-demo/registrace.php" afterDir="false" />
-    </list>
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2021-12-02 - Filtrování vstupů" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,7 @@
       <workItem from="1636010406561" duration="4337000" />
       <workItem from="1636614769422" duration="5504000" />
       <workItem from="1637219744933" duration="3781000" />
-      <workItem from="1638428396138" duration="3634000" />
+      <workItem from="1638428396138" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -141,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637227362882</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2021-12-02 - Filtrování vstupů">
+      <created>1638435490263</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1638435490263</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +172,8 @@
     <MESSAGE value="2021-11-04 Připojení MySQL" />
     <MESSAGE value="2021-11-11 Get requesty, detail místnosti" />
     <MESSAGE value="2021-11-18 - Formulare, http metody, PRG" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-11-18 - Formulare, http metody, PRG" />
+    <MESSAGE value="2021-12-02 - Filtrování vstupů" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-12-02 - Filtrování vstupů" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
