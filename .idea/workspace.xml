@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2021-12-02 - Filtrování vstupů">
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2022-01-13 Statika v OOP">
+      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/arraystorage.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/arraystoragedemo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/getter-setter-demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/sessionstorage.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sessiondemo2.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-OOP/01-Zvire/zvire.php" beforeDir="false" afterPath="$PROJECT_DIR$/06-OOP/01-Zvire/zvire.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +46,7 @@
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\IP3\3A-SIS\06-OOP" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\05-Forms\01-form-demo" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
     </key>
@@ -69,7 +74,8 @@
       <workItem from="1636614769422" duration="5504000" />
       <workItem from="1637219744933" duration="3781000" />
       <workItem from="1638428396138" duration="3681000" />
-      <workItem from="1642056236577" duration="1869000" />
+      <workItem from="1642056236577" duration="1906000" />
+      <workItem from="1642665473321" duration="2080000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -148,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638435490263</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2022-01-13 Statika v OOP">
+      <created>1642059851248</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642059851248</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +190,8 @@
     <MESSAGE value="2021-11-11 Get requesty, detail místnosti" />
     <MESSAGE value="2021-11-18 - Formulare, http metody, PRG" />
     <MESSAGE value="2021-12-02 - Filtrování vstupů" />
-    <option name="LAST_COMMIT_MESSAGE" value="2021-12-02 - Filtrování vstupů" />
+    <MESSAGE value="2022-01-13 Statika v OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-01-13 Statika v OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
