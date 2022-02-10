@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2022-01-13 Statika v OOP">
-      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/arraystorage.class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/arraystoragedemo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/getter-setter-demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-OOP/02-get-set/sessionstorage.class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sessiondemo2.php" afterDir="false" />
+    <list default="true" id="53b7bb31-b574-4ec3-8acc-650a2dc1ffc6" name="Default Changelist" comment="2022-02-03 Upload, Autolading, Mustache">
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/_includes/Config.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/_includes/DB.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/_includes/LocalConfig.example.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/_includes/MustacheRunner.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/_includes/bootstrap.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/templates/foot.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_Small_viewer/templates/roomList.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/3A-SIS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/3A-SIS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +23,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/08_Autoloading/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/08_Autoloading/vendor/composer" />
+      <path value="$PROJECT_DIR$/08_Autoloading/vendor/tracy/tracy" />
+      <path value="$PROJECT_DIR$/08_Autoloading/vendor/mustache/mustache" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1xYHNnHPJcSDk6GMPXcRQOSvpQi" />
   <component name="ProjectViewState">
@@ -32,20 +46,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03-cookies-sessions/session" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/09_Small_viewer/_includes" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\_wamp_root\IP3\3A-SIS\09_Small_viewer\_includes" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\03-cookies-sessions\session" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\IP3\3A-SIS\06-OOP\02-get-set" />
       <recent name="C:\wamp64\www\IP3\3A-SIS\06-OOP" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\05-Forms\01-form-demo" />
       <recent name="D:\www\_wamp_root\IP3\3A-SIS\02-arrays-and-strings" />
@@ -75,7 +92,10 @@
       <workItem from="1637219744933" duration="3781000" />
       <workItem from="1638428396138" duration="3681000" />
       <workItem from="1642056236577" duration="1906000" />
-      <workItem from="1642665473321" duration="2080000" />
+      <workItem from="1642665473321" duration="3387000" />
+      <workItem from="1643868719369" duration="83000" />
+      <workItem from="1644476218623" duration="555000" />
+      <workItem from="1644477990595" duration="4127000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1630525373311</created>
@@ -161,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642059851248</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2022-01-20 Getters, Setters">
+      <created>1642667764934</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642667764935</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2022-02-03 Upload, Autolading, Mustache">
+      <created>1643868765810</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643868765810</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +225,9 @@
     <MESSAGE value="2021-11-18 - Formulare, http metody, PRG" />
     <MESSAGE value="2021-12-02 - Filtrování vstupů" />
     <MESSAGE value="2022-01-13 Statika v OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-01-13 Statika v OOP" />
+    <MESSAGE value="2022-01-20 Getters, Setters" />
+    <MESSAGE value="2022-02-03 Upload, Autolading, Mustache" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-02-03 Upload, Autolading, Mustache" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

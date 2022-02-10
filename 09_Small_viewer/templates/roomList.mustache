@@ -1,0 +1,18 @@
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>No.</th>
+        <th>Phone</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{# rooms }}
+        <tr>
+            <td><a href="{{ roomDetailName }}?room_id={{ room_id }}">{{ name }}</a></td>
+            <td>{{ no }}</td>
+            <td>{{ phone }}</td>
+        </tr>
+    {{/rooms}}
+    </tbody>
+</table>
